@@ -36,7 +36,7 @@ public class AppiumBasics {
 		// code to start the appium server
       
 		
-       
+      
        
 
        
