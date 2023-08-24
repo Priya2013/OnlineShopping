@@ -36,7 +36,11 @@ public class AppiumBasics {
 		// code to start the appium server
       
 		
+<<<<<<< HEAD
        System.out.println("Test");
+=======
+       
+>>>>>>> 997e501f6a13c598ebb06c8ee659d26c26617f72
        
 
        
